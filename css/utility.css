@@ -33,6 +33,7 @@ button, input[type = "submit"]{
             justify-content: center;
 }
 .text{
+    width: 320px;
     font-weight: 400;
     opacity: 0.9;
     line-height: 1.6;
