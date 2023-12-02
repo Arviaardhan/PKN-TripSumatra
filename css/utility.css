@@ -32,6 +32,7 @@ button, input[type = "submit"]{
         -ms-flex-pack: center;
             justify-content: center;
 }
+
 .text{
     width: 320px;
     font-weight: 400;
@@ -39,6 +40,15 @@ button, input[type = "submit"]{
     line-height: 1.6;
     letter-spacing: 1px;
 }
+
+.text-history{
+    width: 550px;
+    font-weight: 400;
+    opacity: 0.9;
+    line-height: 1.6;
+    letter-spacing: 1px;
+}
+
 .form-control{
     width: 100%;
     margin: 0.6rem 0;
