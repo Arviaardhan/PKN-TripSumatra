@@ -1,4 +1,4 @@
-# Website Pemilu 2024
+# Website Provinsi Sumatera
 
 Ini adalah repository untuk proyek website PKN 2024. Website ini menyediakan informasi terkait salah satu Provinsi yang ada di Indonesia tepatnya di Provinsi Sumatera, destinasi yang ada di provinsi tersebut, dan banyak lagi.
 
